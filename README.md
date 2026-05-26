@@ -1,36 +1,54 @@
-# AI Credit Risk System
+<h1 align="center">💳 AI Credit Risk System</h1>
 
-An AI-powered Credit Risk Prediction System that analyzes customer financial details and predicts loan approval risk using Machine Learning.
+<p align="center">
+AI-powered Credit Risk Prediction System using Machine Learning and React
+</p>
+
+---
+
+## 📌 Project Overview
+
+This project predicts customer credit risk and loan approval status using Machine Learning algorithms.  
+It helps financial institutions analyze customer data and make smarter lending decisions.
 
 ---
 
 ## 🚀 Features
-- Credit risk prediction
-- Loan approval analysis
-- User-friendly frontend UI
-- Machine Learning integration
-- Backend API support
+
+✅ Credit Risk Prediction  
+✅ Loan Approval Analysis  
+✅ Interactive Frontend UI  
+✅ Machine Learning Integration  
+✅ Backend API Support  
+✅ Fast and User-Friendly Interface  
 
 ---
 
-## 🛠 Technologies Used
-- React.js
-- Python
-- Flask
-- Machine Learning
-- HTML/CSS/JavaScript
+## 🛠️ Technologies Used
+
+| Frontend | Backend | AI/ML |
+|----------|----------|-------|
+| React.js | Flask | Machine Learning |
+| HTML/CSS | Python | Pandas |
+| JavaScript | REST API | Scikit-learn |
 
 ---
 
 ## 📂 Project Structure
-- frontend/
-- backend/
+
+AI-Credit-Risk-System/
+│
+├── frontend/
+├── backend/
+├── README.md
+└── .gitignore
 
 ---
 
-## ▶️ How to Run the Project
+## ▶️ How to Run
 
 ### Frontend
+```bash
 cd frontend
 npm install
 npm run dev
@@ -39,15 +57,9 @@ npm run dev
 cd backend
 python app.py
 
----
-
-## 📌 Future Improvements
-- Better AI model accuracy
-- User authentication
-- Live deployment
-- Dashboard analytics
-
----
-
-## 👩‍💻 Developed By
- Jayashree
+📊 Future Improvements
+  📈 Better prediction accuracy
+  🔐 User authentication
+  🌐 Live deployment
+  📉 Dashboard analytics
+  🤖 Advanced AI models
