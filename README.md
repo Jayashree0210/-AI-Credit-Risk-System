@@ -1,59 +1,80 @@
-<h1 align="center">💳 AI Credit Risk System</h1>
+# 🤖 AI Credit Risk System
 
-<p align="center">
-AI-powered Credit Risk Prediction System using Machine Learning and React
-</p>
+An AI-powered machine learning system that predicts credit risk based on user financial and behavioral data. The system helps financial institutions make better loan approval decisions using data-driven insights.
 
 ---
 
-## 📌 Project Overview
-
-This project predicts customer credit risk and loan approval status using Machine Learning algorithms.  
-It helps financial institutions analyze customer data and make smarter lending decisions.
-
----
-
-## 🚀 Features
-
-✅ Credit Risk Prediction  
-✅ Loan Approval Analysis  
-✅ Interactive Frontend UI  
-✅ Machine Learning Integration  
-✅ Backend API Support  
-✅ Fast and User-Friendly Interface  
+## 🚀 Live Demo
+> *(Add your deployment link here if available)*  
+Frontend: http://localhost:5173/ 
+Backend: http://127.0.0.1:5000 
 
 ---
 
-## 🛠️ Technologies Used
+## 🧠 Project Overview
 
-| Frontend | Backend | AI/ML |
-|----------|----------|-------|
-| React.js | Flask | Machine Learning |
-| HTML/CSS | Python | Pandas |
-| JavaScript | REST API | Scikit-learn |
+This project uses machine learning to classify whether a loan applicant is **high risk or low risk** based on historical financial data. It includes:
+
+- Data preprocessing
+- Model training
+- REST API backend
+- Interactive frontend dashboard
 
 ---
 
-## 📂 Project Structure
-
+## 🏗️ Project Structure
 AI-Credit-Risk-System/
 │
 ├── backend/
-│   ├── dataset/
-│   ├── app.py
-│   ├── model/
-│   └── requirements.txt
+│ ├── dataset/
+│ ├── app.py
+│ ├── model/
+│ └── requirements.txt
 │
 ├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   └── vite.config.js
+│ ├── public/
+│ ├── src/
+│ ├── package.json
+│ └── vite.config.js
 │
 ├── .gitignore
 └── README.md
 
-## ▶️ How to Run
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend:**
+- React (Vite)
+- HTML, CSS, JavaScript
+
+**Backend:**
+- Python
+- Flask
+- Scikit-learn / Pandas / NumPy
+
+**Machine Learning:**
+- Classification Models (Logistic Regression / Random Forest)
+
+---
+
+## 📊 Features
+
+- 📌 Predict credit risk (Approved / Rejected)
+- 📌 Trained ML model on financial dataset
+- 📌 REST API using Flask
+- 📌 Responsive frontend UI
+- 📌 Real-time prediction results
+
+---
+
+## 🔥 How to Run the Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/AI-Credit-Risk-System.git
+cd AI-Credit-Risk-System
 
 ## 🚀 Running the Application
 
@@ -82,14 +103,9 @@ Runs at:
 http://localhost:5000
 ```
 
-## 📊 Future Improvements
-
-- 📈 Better prediction accuracy
-- 🔐 User authentication
-- 🌐 Live deployment
-- 📉 Dashboard analytics
-- 🤖 Advanced AI models
-
- ## 👩‍💻 Author
-
-**Jayashree**
+📈 Future Improvements
+🔐 User Authentication (Login/Signup)
+📊 Advanced Analytics Dashboard
+🤖 Better ML model accuracy (XGBoost / Deep Learning)
+☁️ Cloud deployment (AWS / Render / Vercel)
+📱 Mobile-friendly UI
