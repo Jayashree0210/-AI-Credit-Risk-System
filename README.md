@@ -38,12 +38,20 @@ It helps financial institutions analyze customer data and make smarter lending d
 
 AI-Credit-Risk-System/
 │
-├── frontend/
 ├── backend/
-├── README.md
-└── .gitignore
-
----
+│   ├── dataset/
+│   ├── app.py
+│   ├── model/
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── vite.config.js
+│
+├── .gitignore
+└── README.md
 
 ## ▶️ How to Run
 
