@@ -47,20 +47,32 @@ AI-Credit-Risk-System/
 
 ## ▶️ How to Run
 
-### Frontend
+## 🚀 Running the Application
+
+### 🎨 Frontend Server
 ```bash
 cd frontend
 npm install
 npm run dev
+```
 
-## ▶️ Backend
+Runs at:
+```bash
+http://localhost:5173
+```
 
+---
+
+### ⚙️ Backend Server
 ```bash
 cd backend
 python app.py
 ```
 
----
+Runs at:
+```bash
+http://localhost:5000
+```
 
 ## 📊 Future Improvements
 
@@ -69,3 +81,7 @@ python app.py
 - 🌐 Live deployment
 - 📉 Dashboard analytics
 - 🤖 Advanced AI models
+
+ ## 👩‍💻 Author
+
+**Jayashree**
