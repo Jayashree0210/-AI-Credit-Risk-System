@@ -53,13 +53,19 @@ cd frontend
 npm install
 npm run dev
 
-### Backend
+## ▶️ Backend
+
+```bash
 cd backend
 python app.py
+```
+
+---
 
 ## 📊 Future Improvements
-  📈 Better prediction accuracy
-  🔐 User authentication
-  🌐 Live deployment
-  📉 Dashboard analytics
-  🤖 Advanced AI models
+
+- 📈 Better prediction accuracy
+- 🔐 User authentication
+- 🌐 Live deployment
+- 📉 Dashboard analytics
+- 🤖 Advanced AI models
