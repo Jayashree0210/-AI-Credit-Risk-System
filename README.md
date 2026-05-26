@@ -4,8 +4,7 @@ An AI-powered machine learning system that predicts credit risk based on user fi
 
 ---
 
-## 🚀 Live Demo
-> *(Add your deployment link here if available)*  
+## 🚀 Live Demo 
 Frontend: http://localhost:5173/ 
 Backend: http://127.0.0.1:5000 
 
@@ -22,24 +21,22 @@ This project uses machine learning to classify whether a loan applicant is **hig
 
 ---
 
-## 🏗️ Project Structure
 AI-Credit-Risk-System/
 │
 ├── backend/
-│ ├── dataset/
-│ ├── app.py
-│ ├── model/
-│ └── requirements.txt
+│   ├── dataset/
+│   ├── app.py
+│   ├── model/
+│   └── requirements.txt
 │
 ├── frontend/
-│ ├── public/
-│ ├── src/
-│ ├── package.json
-│ └── vite.config.js
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── vite.config.js
 │
 ├── .gitignore
 └── README.md
-
 
 ---
 
@@ -103,9 +100,14 @@ Runs at:
 http://localhost:5000
 ```
 
-📈 Future Improvements
+## 📈 Future Improvements
+
 🔐 User Authentication (Login/Signup)
+
 📊 Advanced Analytics Dashboard
+
 🤖 Better ML model accuracy (XGBoost / Deep Learning)
+
 ☁️ Cloud deployment (AWS / Render / Vercel)
+
 📱 Mobile-friendly UI
