@@ -57,7 +57,7 @@ npm run dev
 cd backend
 python app.py
 
-📊 Future Improvements
+## 📊 Future Improvements
   📈 Better prediction accuracy
   🔐 User authentication
   🌐 Live deployment
