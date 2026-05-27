@@ -111,3 +111,9 @@ http://localhost:5000
 ☁️ Cloud deployment (AWS / Render / Vercel)
 
 📱 Mobile-friendly UI
+
+
+## 👩‍💻 Author
+
+###  Jayashree
+
