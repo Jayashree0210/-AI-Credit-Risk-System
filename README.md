@@ -20,25 +20,25 @@ This project uses machine learning to classify whether a loan applicant is **hig
 - Interactive frontend dashboard
 
 ---
+## 📁 Project Structure
 
 AI-Credit-Risk-System/
-│
-├── backend/
-│   ├── dataset/
-│   ├── app.py
-│   ├── model/
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   └── vite.config.js
-│
-├── .gitignore
-└── README.md
 
----
+backend/
+dataset/
+app.py/
+model/
+requirements.txt/
+
+frontend/
+public/
+src/
+package.json/
+vite.config.js/
+
+.gitignore/
+README.md/
+
 
 ## ⚙️ Tech Stack
 
